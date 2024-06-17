@@ -1,2 +1,12 @@
 # test.github.io
-This is a practice github site
+We are excited to announce the formation of the Multimodal Accessible Travel (MAT) Standards Coordinating Committee (SCC) as part of the Multimodal and Accessible Travel Standards Support Project. 
+
+Over the years, the United States Department of Transportation (USDOT), along with the Institute of Transportation Engineering (ITE) and their standards development partners, have been actively involved in shaping Intelligent Transportation Systems (ITS) standards. Recently, traditional ITS technologies have begun integrating with multimodal travel, supporting vulnerable road users. As these technologies converge, ensuring seamless integration and addressing the safety and security needs of VRUs becomes critical. 
+
+USDOT previously had a MAT Standards project that produced a MAT Standards and VRU Cybersecurity Coordination Plan which this project is expected to build upon. Phase 1 of this project focused on addressing gaps in standards and deployment guidance for MAT and VRU technologies when integrating with ITS environments and technologies, including connected vehicle (CV) technologies. We are currently working on phase 2 of the project, which has focused on defining and implementing critical activities to better address ongoing convergence of ITS technologies with MAT and the future integration of new innovative forms of MAT. 
+
+As part of the MAT Standards and VRU Cybersecurity Plan (SCP), it was recommended that a coordination committee be established. The purpose of the SCC is to accelerate the development and adoption of MAT standards. By streamlining the development process, we can enhance accessibility for all travelers regardless of their mode of transportation. The SCC will serve as a promoter of existing and planned MAT standards and may also act as a coordinator of existing standards and standards development activities. In its capacity as a promoter, the SCC is expected to advise and recommend to the United States Department of Transportation (USDOT) where standards development activities and standards coordination are needed for the MAT area. It may also provide advice and recommendations on what organizations should be involved with the development of a MAT standard, what organization should develop the MAT standards, the areas where public sector involvement is needed, and the areas where policies or guidance for deployment of standards are needed.
+
+We invite you to actively participate in the SCC. Your expertise will help shape the future of accessible travel, ensuring safety, security, and seamless experiences for all users. 
+
+To confirm your interest or request additional information, please complete this FORM. 
