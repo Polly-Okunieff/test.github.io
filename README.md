@@ -9,4 +9,4 @@ As part of the MAT Standards and VRU Cybersecurity Plan (SCP), it was recommende
 
 We invite you to actively participate in the SCC. Your expertise will help shape the future of accessible travel, ensuring safety, security, and seamless experiences for all users. 
 
-To confirm your interest or request additional information, please complete this FORM. 
+To confirm your interest or request additional information, please complete this https://forms.gle/39PAPAjpDW29z3Lt7. 
